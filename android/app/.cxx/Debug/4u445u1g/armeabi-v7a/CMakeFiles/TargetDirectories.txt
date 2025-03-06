@@ -1,0 +1,2 @@
+C:/Users/User/Documents/language-learning-app/android/app/.cxx/Debug/4u445u1g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/language-learning-app/android/app/.cxx/Debug/4u445u1g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
